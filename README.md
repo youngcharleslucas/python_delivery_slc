@@ -6,4 +6,4 @@ before a certain time.  The combined mileage of all trucks must be less than
 140 miles.
 
 I didn't use an IDE for this. I wrote this in Notepad++. To run the app, install 
-a python interpreter. From a console run `pythong main.py`.  
+a python interpreter. From a console run `python main.py`.  
